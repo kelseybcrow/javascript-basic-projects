@@ -139,11 +139,6 @@ function getLocalStorage() {
         ? JSON.parse(localStorage.getItem('list'))
         : []
 }
-// local storage API
-// set item
-// get item
-// remove item
-// save as strings
 
 // ****** SETUP ITEMS **********
 function setupItems() {
